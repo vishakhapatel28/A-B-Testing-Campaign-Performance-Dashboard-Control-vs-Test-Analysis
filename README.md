@@ -167,47 +167,6 @@ Test campaign daily performance data with the same structure as control group.
 
 ---
 
-## 🚀 Installation & Setup
-
-### Prerequisites
-- Python 3.8+
-- Jupyter Notebook or JupyterLab
-- Virtual Environment (recommended)
-
-### Required Libraries
-```
-pandas>=3.0.0
-numpy>=2.4.0
-matplotlib>=3.10.0
-seaborn>=0.13.0
-scipy>=1.17.0
-```
-
-### Installation Steps
-
-1. **Clone/Navigate to project folder**:
-```bash
-cd "AB Testing for Marketing Campaign Optimization"
-```
-
-2. **Create virtual environment** (recommended):
-```bash
-python -m venv .venv
-.venv\Scripts\activate
-```
-
-3. **Install dependencies**:
-```bash
-pip install pandas numpy matplotlib seaborn scipy jupyter
-```
-
-4. **Launch Jupyter Notebook**:
-```bash
-jupyter notebook
-```
-
----
-
 ## 📊 Visualizations Generated
 
 The notebook creates the following visualizations:
